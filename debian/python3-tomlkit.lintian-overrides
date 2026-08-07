@@ -1,0 +1,4 @@
+python3-tomlkit: copyright-without-copyright-notice
+python3-tomlkit: initial-upload-closes-no-bugs
+python3-tomlkit: no-manual-page
+python3-tomlkit: zero-byte-file-in-doc-directory
